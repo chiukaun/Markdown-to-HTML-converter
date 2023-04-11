@@ -7,8 +7,8 @@ Input drag the file to terminal, and then auto execute the conversion. All I nee
 
 ## What's left
 - [ ] get the openai api working
-- [ ] trim out h1 and cover image
-- [ ] adjust the format
+- [x] trim out h1 and cover image
+- [x] adjust the format
 - [ ] actual testing
 
 
